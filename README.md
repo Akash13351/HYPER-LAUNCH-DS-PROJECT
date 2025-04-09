@@ -88,4 +88,4 @@ To build a machine learning pipeline that accurately predicts the number of calo
 
 ##DEVELOPED BY
 
-AKASH S to visit :https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
+AKASH S  TO VISIT :https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
