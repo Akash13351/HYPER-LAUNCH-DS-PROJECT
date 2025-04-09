@@ -18,6 +18,7 @@ Features:
 Dataset Used:
 -------------
 Title       : Gym Members Exercise Tracking  
+Source link :https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 File Format : CSV  
 
 Dataset Attributes:
@@ -74,7 +75,7 @@ Visualizations:
 
 User Interaction:
 -----------------
-A simple CLI allows users to:
+A simple CLI allows users to: 
 - View summary statistics
 - Choose different visualizations
 - Train the model
@@ -84,6 +85,7 @@ Project Objective:
 ------------------
 To build a machine learning pipeline that accurately predicts the number of calories burned based on exercise data and provides actionable insights through visual analysis.
 
+
 ##DEVELOPED BY
 
-AKASH S 
+AKASH S to visit :https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
